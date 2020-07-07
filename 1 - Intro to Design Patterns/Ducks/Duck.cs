@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Strategy - Defines a family of algorithms, encapsulates each one, and makes them interchangeable. 
+//           Strategy lets the algorithm vary independentlyfrom the clients that use it.
+
+
 namespace Ducks
 {
     public abstract class Duck
