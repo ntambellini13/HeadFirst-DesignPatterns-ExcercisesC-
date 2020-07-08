@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 
 //Strategy - Defines a family of algorithms, encapsulates each one, and makes them interchangeable. 
-//           Strategy lets the algorithm vary independentlyfrom the clients that use it.
+//           Strategy lets the algorithm vary independently from the clients that use it.
 
 
 namespace Ducks
