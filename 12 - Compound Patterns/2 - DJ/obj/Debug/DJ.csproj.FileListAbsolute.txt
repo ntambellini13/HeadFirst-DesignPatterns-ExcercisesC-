@@ -1,0 +1,33 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\bin\Debug\DJ.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\bin\Debug\DJ.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\bin\Debug\DJ.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\View\DJViewControl.g.cs
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\View\DJViewModel.g.cs
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\App.g.cs
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\DJ_MarkupCompile.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\DJ_MarkupCompile.lref
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\View\DJViewControl.baml
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\View\DJViewModel.baml
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\DJ.g.resources
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\DJ.Properties.Resources.resources
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\DJ.csproj.GenerateResource.Cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\DJ.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\DJ.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DJ\obj\Debug\DJ.csprojResolveAssemblyReference.cache
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\bin\Debug\DJ.exe.config
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\bin\Debug\DJ.exe
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\bin\Debug\DJ.pdb
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\DJ.csprojAssemblyReference.cache
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\View\DJViewControl.g.cs
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\View\DJViewModel.g.cs
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\App.g.cs
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\DJ_MarkupCompile.cache
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\DJ_MarkupCompile.lref
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\View\DJViewControl.baml
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\View\DJViewModel.baml
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\DJ.g.resources
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\DJ.Properties.Resources.resources
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\DJ.csproj.GenerateResource.cache
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\DJ.csproj.CoreCompileInputs.cache
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\DJ.exe
+C:\Users\ntamb\OneDrive\Desktop\HeadFirst-DesignPatterns-ExcercisesCSharp\12 - Compound Patterns\2 - DJ\obj\Debug\DJ.pdb
